@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "Bot is running..."
+    return "Bot is running and alive!"
 
 def run():
     
@@ -26,8 +26,12 @@ def send_welcome(message):
     bot.reply_to(message, "Salom! Men Render-da muvaffaqiyatli ishlayapman!")
 
 if __name__ == "__main__":
-    print("Web server ishga tushmoqda...")
+    print("Web server ishga tushirilmoqda...")
     keep_alive()
-    print("Bot polling boshlandi...")
-    bot.polling(none_stop=True)
+    
+    print("Bot polling rejimiga o'tdi...")
+    try:
+        bot.polling(none_stop=True, interval=0, timeout=20)
+    except Exception as e:
+        print(f"Xatolik yuz berdi: {e}")
 
