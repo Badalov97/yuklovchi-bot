@@ -1,0 +1,499 @@
+[Instagram] Extracting URL: https://www.instagram.com/reel/DVJD3ONDDjD/?igsh=MTVoejJmZzh4OXQ4dA==
+[Instagram] DVJD3ONDDjD: Setting up session
+[Instagram] DVJD3ONDDjD: Downloading JSON metadata
+[info] DVJD3ONDDjD: Downloading 1 format(s): dash-2315677948929673a
+[download] Destination: /data/data/com.termux/files/home/m_924843579.mp3
+[download]   0.2% of  440.45KiB at  253.54KiB/s ETA 00:01[download]   0.7% of  440.45KiB at  213.77KiB/s ETA 00:02[download]   1.6% of  440.45KiB at  328.11KiB/s ETA 00:01[download]   3.4% of  440.45KiB at  506.16KiB/s ETA 00:00[download]   7.0% of  440.45KiB at  863.38KiB/s ETA 00:00[download]  14.3% of  440.45KiB at  883.08KiB/s ETA 00:00[download]  28.8% of  440.45KiB at    1.02MiB/s ETA 00:00[download]  57.9% of  440.45KiB at    1.36MiB/s ETA 00:00[download] 100.0% of  440.45KiB at    1.68MiB/s ETA 00:00[download] 100% of  440.45KiB in 00:00:00 at 992.40KiB/s 
+[FixupM4a] Correcting container of "/data/data/com.termux/files/home/m_924843579.mp3"
+[ExtractAudio] Destination: /data/data/com.termux/files/home/m_924843579.mp3.mp3
+Deleting original file /data/data/com.termux/files/home/m_924843579.mp3 (pass -k to keep)
+[Instagram] Extracting URL: https://www.instagram.com/reel/DVJaLlUDL-E/?igsh=MTgxeWQ1cnRnbDVsbQ==
+[Instagram] DVJaLlUDL-E: Setting up session
+[Instagram] DVJaLlUDL-E: Downloading JSON metadata
+[info] DVJaLlUDL-E: Downloading 1 format(s): dash-4385000478443477a
+[download] Destination: /data/data/com.termux/files/home/m_1122363651.mp3
+[download]   0.4% of  263.37KiB at   65.51KiB/s ETA 00:04[download]   1.1% of  263.37KiB at  108.38KiB/s ETA 00:02[download]   2.7% of  263.37KiB at  203.29KiB/s ETA 00:01[download]   5.7% of  263.37KiB at  345.44KiB/s ETA 00:00[download]  11.8% of  263.37KiB at  612.00KiB/s ETA 00:00[download]  23.9% of  263.37KiB at  964.74KiB/s ETA 00:00[download]  48.2% of  263.37KiB at    1.19MiB/s ETA 00:00[download]  96.8% of  263.37KiB at    1.12MiB/s ETA 00:00[download] 100.0% of  263.37KiB at    1.11MiB/s ETA 00:00[download] 100% of  263.37KiB in 00:00:00 at 600.99KiB/s 
+[FixupM4a] Correcting container of "/data/data/com.termux/files/home/m_1122363651.mp3"
+[ExtractAudio] Destination: /data/data/com.termux/files/home/m_1122363651.mp3.mp3
+[Instagram] Extracting URL: https://www.instagram.com/p/DVA6zpSgH_2/?igsh=eHdlZmN5bGZza2U2
+[Instagram] DVA6zpSgH_2: Setting up session
+[Instagram] DVA6zpSgH_2: Downloading JSON metadata
+[info] DVA6zpSgH_2: Downloading 1 format(s): 3
+[download] Destination: /data/data/com.termux/files/home/v_1122363651.mp4
+[download]   0.0% of   26.40MiB at  665.34KiB/s ETA 00:42[download]   0.0% of   26.40MiB at  630.25KiB/s ETA 00:43[download]   0.0% of   26.40MiB at  885.09KiB/s ETA 00:30[download]   0.1% of   26.40MiB at  557.62KiB/s ETA 00:48[download]   0.1% of   26.40MiB at  969.46KiB/s ETA 00:27[download]   0.2% of   26.40MiB at  894.27KiB/s ETA 00:30[download]   0.5% of   26.40MiB at    1.12MiB/s ETA 00:23[download]   0.9% of   26.40MiB at    1.57MiB/s ETA 00:16[download]   1.9% of   26.40MiB at    2.18MiB/s ETA 00:11[download]   3.8% of   26.40MiB at    1.09MiB/s ETA 00:23[download]   6.6% of   26.40MiB at    1.59MiB/s ETA 00:15[download]  12.1% of   26.40MiB at    2.11MiB/s ETA 00:10Deleting original file /data/data/com.termux/files/home/m_1122363651.mp3 (pass -k to keep)
+[download]  23.2% of   26.40MiB at    2.82MiB/s ETA 00:07[download]  38.3% of   26.40MiB at    2.68MiB/s ETA 00:06[download]  47.7% of   26.40MiB at    2.95MiB/s ETA 00:04[download]  62.9% of   26.40MiB at    3.30MiB/s ETA 00:02[download]  78.0% of   26.40MiB at    3.54MiB/s ETA 00:01[download]  93.2% of   26.40MiB at    3.84MiB/s ETA 00:00[download] 100.0% of   26.40MiB at    3.98MiB/s ETA 00:00[download] 100% of   26.40MiB in 00:00:06 at 3.91MiB/s   
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 1430, in getresponse
+    response.begin()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 1430, in getresponse
+    response.begin()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bot.py", line 61, in <module>
+    bot.polling(none_stop=True)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 115, in raise_exceptions
+    raise self.exception_info
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 659, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bot.py", line 88, in <module>
+    bot.remove_webhook()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 627, in remove_webhook
+    return self.set_webhook()  # No params resets webhook
+           ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 470, in set_webhook
+    return apihelper.set_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 306, in set_webhook
+    return _make_request(token, method_url, params=payload, files=files)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 401. Description: Unauthorized
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[download]   0.0% of    3.08MiB at  271.05KiB/s ETA 00:12[download]   0.1% of    3.08MiB at  218.08KiB/s ETA 00:14[download]   0.2% of    3.08MiB at  359.55KiB/s ETA 00:08[download]   0.5% of    3.08MiB at  582.73KiB/s ETA 00:05[download]   1.0% of    3.08MiB at  775.60KiB/s ETA 00:04[download]   2.0% of    3.08MiB at    1.12MiB/s ETA 00:02[download]   0.0% of    3.08MiB at  100.82KiB/s ETA 00:31[download]   0.1% of    3.08MiB at  187.04KiB/s ETA 00:16[download]   0.2% of    3.08MiB at  295.61KiB/s ETA 00:10[download]   0.5% of    3.08MiB at  442.40KiB/s ETA 00:07[download]   4.0% of    3.08MiB at  919.24KiB/s ETA 00:03[download]   1.0% of    3.08MiB at  692.87KiB/s ETA 00:04[download]   2.0% of    3.08MiB at  789.32KiB/s ETA 00:03[download]   8.1% of    3.08MiB at    1.10MiB/s ETA 00:02[download]   4.0% of    3.08MiB at  577.32KiB/s ETA 00:05[download]   8.1% of    3.08MiB at  683.89KiB/s ETA 00:04[download]  16.2% of    3.08MiB at    1.05MiB/s ETA 00:02[download]  32.5% of    3.08MiB at    1.14MiB/s ETA 00:01[download]  16.2% of    3.08MiB at  635.97KiB/s ETA 00:04[download]  32.5% of    3.08MiB at  441.87KiB/s ETA 00:04[download]  65.0% of    3.08MiB at  831.23KiB/s ETA 00:01[download]  43.2% of    3.08MiB at  431.58KiB/s ETA 00:04[download]  85.5% of    3.08MiB at  762.68KiB/s ETA 00:00[download]  56.0% of    3.08MiB at  406.58KiB/s ETA 00:03[download] 100.0% of    3.08MiB at  702.52KiB/s ETA 00:00[download] 100% of    3.08MiB in 00:00:04 at 659.73KiB/s                                                         [download]  66.8% of    3.08MiB at  440.08KiB/s ETA 00:02[download]  88.4% of    3.08MiB at  495.41KiB/s ETA 00:00[download] 100.0% of    3.08MiB at  533.75KiB/s ETA 00:00ERROR: Unable to rename file: [Errno 2] No such file or directory: 's_924843579.mp3.part' -> 's_924843579.mp3'
+[Instagram] Extracting URL: https://www.instagram.com/reel/DU88vuOiIej/?igsh=MThzN2Q2aGx6Z3JvMg==
+[Instagram] DU88vuOiIej: Setting up session
+[Instagram] DU88vuOiIej: Downloading JSON metadata
+[info] DU88vuOiIej: Downloading 1 format(s): 3
+[download] Destination: dl_924843579.mp4
+[download]   0.0% of    7.66MiB at  308.06KiB/s ETA 00:26[download]   0.0% of    7.66MiB at  247.02KiB/s ETA 00:32[download]   0.1% of    7.66MiB at  349.33KiB/s ETA 00:22[download]   0.2% of    7.66MiB at  535.34KiB/s ETA 00:14[download]   0.4% of    7.66MiB at  723.48KiB/s ETA 00:10[download]   0.8% of    7.66MiB at  596.74KiB/s ETA 00:13[download]   1.6% of    7.66MiB at  607.87KiB/s ETA 00:12[download]   3.3% of    7.66MiB at  644.17KiB/s ETA 00:11[download]   6.5% of    7.66MiB at  737.30KiB/s ETA 00:09[download]  13.0% of    7.66MiB at  436.17KiB/s ETA 00:15[download]  17.0% of    7.66MiB at  405.30KiB/s ETA 00:16[download]  21.2% of    7.66MiB at  412.73KiB/s ETA 00:14[download]  26.9% of    7.66MiB at  482.77KiB/s ETA 00:11[download]  38.2% of    7.66MiB at  584.53KiB/s ETA 00:08[download]  53.1% of    7.66MiB at  615.75KiB/s ETA 00:05[download]  62.2% of    7.66MiB at  655.13KiB/s ETA 00:04[download]  75.5% of    7.66MiB at  715.04KiB/s ETA 00:02[download]  91.4% of    7.66MiB at  651.56KiB/s ETA 00:01[download]  99.4% of    7.66MiB at  686.38KiB/s ETA 00:00[download] 100.0% of    7.66MiB at  689.05KiB/s ETA 00:00[download] 100% of    7.66MiB in 00:00:11 at 680.44KiB/s 
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 1430, in getresponse
+    response.begin()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1251, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1103, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bot.py", line 85, in <module>
+    bot.polling(none_stop=True)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 10427, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/bot.py", line 57, in download_link
+    bot.edit_message_text("⏳ Yuklanmoqda...", call.message.chat.id, call.message.message_id)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 5444, in edit_message_text
+    result = apihelper.edit_message_text(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 1668, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+[download]   0.0% of    3.05MiB at   61.29KiB/s ETA 00:51[download]   0.1% of    3.05MiB at  139.51KiB/s ETA 00:22[download]   0.2% of    3.05MiB at  258.20KiB/s ETA 00:12[download]   0.5% of    3.05MiB at  449.57KiB/s ETA 00:06[download]   1.0% of    3.05MiB at  730.27KiB/s ETA 00:04[download]   2.0% of    3.05MiB at  957.89KiB/s ETA 00:03[download]   4.1% of    3.05MiB at    1.19MiB/s ETA 00:02[download]   8.2% of    3.05MiB at    1.36MiB/s ETA 00:02[download]  16.3% of    3.05MiB at    1.66MiB/s ETA 00:01[download]  32.7% of    3.05MiB at    1.90MiB/s ETA 00:01[download]  65.4% of    3.05MiB at    2.32MiB/s ETA 00:00[download] 100.0% of    3.05MiB at    2.46MiB/s ETA 00:00[download] 100% of    3.05MiB in 00:00:01 at 2.22MiB/s                                                         Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 1430, in getresponse
+    response.begin()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1251, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1103, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bot.py", line 54, in <module>
+    bot.polling(none_stop=True)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 115, in raise_exceptions
+    raise self.exception_info
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bot.py", line 62, in <module>
+    bot.remove_webhook()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 627, in remove_webhook
+    return self.set_webhook()  # No params resets webhook
+           ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 470, in set_webhook
+    return apihelper.set_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 306, in set_webhook
+    return _make_request(token, method_url, params=payload, files=files)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 197, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 401. Description: Unauthorized
+[download]   0.0% of    3.05MiB at  126.00KiB/s ETA 00:25[download]   0.1% of    3.05MiB at  195.09KiB/s ETA 00:16[download]   0.2% of    3.05MiB at  348.18KiB/s ETA 00:08[download]   0.5% of    3.05MiB at  578.34KiB/s ETA 00:05[download]   1.0% of    3.05MiB at  887.46KiB/s ETA 00:03[download]   2.0% of    3.05MiB at  967.67KiB/s ETA 00:03[download]   4.1% of    3.05MiB at    1.22MiB/s ETA 00:02[download]   8.2% of    3.05MiB at    1.59MiB/s ETA 00:01[download]  16.3% of    3.05MiB at    1.50MiB/s ETA 00:01[download]  32.7% of    3.05MiB at    2.36MiB/s ETA 00:00[download]  65.4% of    3.05MiB at    3.15MiB/s ETA 00:00[download] 100.0% of    3.05MiB at    3.67MiB/s ETA 00:00[download] 100% of    3.05MiB in 00:00:01 at 3.03MiB/s                                                         [download]   0.0% of    3.91MiB at   43.10KiB/s ETA 01:33[download]   0.1% of    3.91MiB at  108.67KiB/s ETA 00:36[download]   0.2% of    3.91MiB at  217.88KiB/s ETA 00:18[download]   0.4% of    3.91MiB at  409.05KiB/s ETA 00:09[download]   0.8% of    3.91MiB at  764.90KiB/s ETA 00:05[download]   1.6% of    3.91MiB at  753.60KiB/s ETA 00:05[download]   3.2% of    3.91MiB at 1010.92KiB/s ETA 00:03[download]   6.4% of    3.91MiB at    1.12MiB/s ETA 00:03[download]  12.8% of    3.91MiB at    1.27MiB/s ETA 00:02[download]  25.5% of    3.91MiB at    1.39MiB/s ETA 00:02[download]  51.1% of    3.91MiB at    1.62MiB/s ETA 00:01[download] 100.0% of    3.91MiB at    1.78MiB/s ETA 00:00[download] 100% of    3.91MiB in 00:00:02 at 1.66MiB/s                                                         [download]   0.0% of    2.10MiB at  282.24KiB/s ETA 00:07[download]   0.1% of    2.10MiB at  271.24KiB/s ETA 00:07[download]   0.3% of    2.10MiB at  437.62KiB/s ETA 00:04[download]   0.7% of    2.10MiB at  715.95KiB/s ETA 00:02[download]   1.4% of    2.10MiB at  948.40KiB/s ETA 00:02[download]   2.9% of    2.10MiB at    1.02MiB/s ETA 00:02[download]   5.9% of    2.10MiB at    1.14MiB/s ETA 00:01[download]  11.8% of    2.10MiB at    1.57MiB/s ETA 00:01[download]  23.7% of    2.10MiB at    2.04MiB/s ETA 00:00[download]  47.5% of    2.10MiB at    2.24MiB/s ETA 00:00[download]  95.0% of    2.10MiB at    2.66MiB/s ETA 00:00[download] 100.0% of    2.10MiB at    2.66MiB/s ETA 00:00[download] 100% of    2.10MiB in 00:00:00 at 2.24MiB/s                                                         [download]   0.0% of    6.59MiB at  324.81KiB/s ETA 00:21[download]   0.0% of    6.59MiB at  300.29KiB/s ETA 00:22[download]   0.1% of    6.59MiB at  522.82KiB/s ETA 00:12[download]   0.2% of    6.59MiB at  877.32KiB/s ETA 00:07[download]   0.5% of    6.59MiB at    1.41MiB/s ETA 00:04[download]   0.9% of    6.59MiB at    1.85MiB/s ETA 00:03[download]   1.9% of    6.59MiB at    1.86MiB/s ETA 00:03[download]   3.8% of    6.59MiB at    1.88MiB/s ETA 00:03[download]   7.6% of    6.59MiB at    2.27MiB/s ETA 00:02[download]  15.2% of    6.59MiB at    2.46MiB/s ETA 00:02[download]  30.3% of    6.59MiB at    2.39MiB/s ETA 00:01[download]  60.7% of    6.59MiB at    2.32MiB/s ETA 00:01[download]  94.9% of    6.59MiB at    2.82MiB/s ETA 00:00[download] 100.0% of    6.59MiB at    2.90MiB/s ETA 00:00[download] 100% of    6.59MiB in 00:00:02 at 2.79MiB/s                                                         Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 1430, in getresponse
+    response.begin()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1251, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1103, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bot.py", line 63, in <module>
+    bot.polling(none_stop=True)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1234, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 115, in raise_exceptions
+    raise self.exception_info
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 688, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 660, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 339, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+[download]   0.0% of   65.65MiB at  288.57KiB/s ETA 04:06[download]   0.0% of   65.65MiB at  237.72KiB/s ETA 04:45[download]   0.0% of   65.65MiB at  370.67KiB/s ETA 03:02[download]   0.0% of   65.65MiB at  599.02KiB/s ETA 01:52[download]   0.0% of   65.65MiB at  969.81KiB/s ETA 01:09[download]   0.1% of   65.65MiB at    1.05MiB/s ETA 01:02[download]   0.2% of   65.65MiB at    1.33MiB/s ETA 00:49[download]   0.4% of   65.65MiB at    1.77MiB/s ETA 00:36[download]   0.8% of   65.65MiB at    2.12MiB/s ETA 00:30[download]   1.5% of   65.65MiB at    2.63MiB/s ETA 00:24[download]   3.0% of   65.65MiB at    3.31MiB/s ETA 00:19[download]   6.1% of   65.65MiB at    3.98MiB/s ETA 00:15[download]  12.2% of   65.65MiB at    4.47MiB/s ETA 00:12[download]  14.7% of   65.65MiB at    4.61MiB/s ETA 00:12[download]  14.7% of   65.65MiB at  920.41KiB/s ETA 01:06[download]  14.7% of   65.65MiB at  538.42KiB/s ETA 02:04[download]  14.7% of   65.65MiB at  504.80KiB/s ETA 01:54[download]  14.7% of   65.65MiB at  757.32KiB/s ETA 01:15[download]  14.8% of   65.65MiB at    1.18MiB/s ETA 00:47[download]  14.8% of   65.65MiB at    1.84MiB/s ETA 00:30[download]  14.9% of   65.65MiB at    3.07MiB/s ETA 00:18[download]  15.1% of   65.65MiB at    5.20MiB/s ETA 00:10[download]  15.5% of   65.65MiB at    5.78MiB/s ETA 00:09[download]  16.2% of   65.65MiB at    5.35MiB/s ETA 00:10[download]  17.8% of   65.65MiB at    5.23MiB/s ETA 00:10[download]  20.8% of   65.65MiB at    5.51MiB/s ETA 00:09[download]  26.9% of   65.65MiB at    5.57MiB/s ETA 00:08[download]  29.6% of   65.65MiB at    5.69MiB/s ETA 00:08[download]  29.6% of   65.65MiB at  Unknown B/s ETA Unknown[download]  29.6% of   65.65MiB at  504.77KiB/s ETA 01:34  [download]  29.6% of   65.65MiB at  669.99KiB/s ETA 01:11[download]  29.6% of   65.65MiB at  833.21KiB/s ETA 00:57[download]  29.6% of   65.65MiB at    1.29MiB/s ETA 00:35[download]  29.7% of   65.65MiB at    2.15MiB/s ETA 00:21[download]  29.8% of   65.65MiB at    3.59MiB/s ETA 00:12[download]  29.9% of   65.65MiB at    5.86MiB/s ETA 00:07[download]  30.3% of   65.65MiB at    6.51MiB/s ETA 00:07[download]  31.1% of   65.65MiB at    5.95MiB/s ETA 00:07[download]  32.6% of   65.65MiB at    6.11MiB/s ETA 00:07[download]  35.7% of   65.65MiB at    6.05MiB/s ETA 00:06[download]  41.8% of   65.65MiB at    5.11MiB/s ETA 00:07[download]  44.1% of   65.65MiB at    5.29MiB/s ETA 00:06[download]  44.1% of   65.65MiB at  134.93KiB/s ETA 04:41[download]  44.1% of   65.65MiB at  210.56KiB/s ETA 02:59[download]  44.1% of   65.65MiB at  361.90KiB/s ETA 01:44[download]  44.1% of   65.65MiB at  576.15KiB/s ETA 01:05[download]  44.2% of   65.65MiB at  947.93KiB/s ETA 00:39[download]  44.2% of   65.65MiB at    1.60MiB/s ETA 00:23[download]  44.3% of   65.65MiB at    2.61MiB/s ETA 00:14[download]  44.5% of   65.65MiB at    4.15MiB/s ETA 00:08[download]  44.9% of   65.65MiB at    6.44MiB/s ETA 00:05[download]  45.6% of   65.65MiB at    6.31MiB/s ETA 00:05[download]  47.2% of   65.65MiB at    6.27MiB/s ETA 00:05[download]  50.2% of   65.65MiB at    6.08MiB/s ETA 00:05[download]  56.3% of   65.65MiB at    6.34MiB/s ETA 00:04[download]  59.0% of   65.65MiB at    6.37MiB/s ETA 00:04[download]  59.1% of   65.65MiB at  137.75KiB/s ETA 03:21[download]  59.1% of   65.65MiB at  228.73KiB/s ETA 02:00[download]  59.1% of   65.65MiB at  387.46KiB/s ETA 01:11[download]  59.1% of   65.65MiB at  672.87KiB/s ETA 00:40[download]  59.1% of   65.65MiB at    1.09MiB/s ETA 00:24[download]  59.1% of   65.65MiB at    1.85MiB/s ETA 00:14[download]  59.2% of   65.65MiB at    3.23MiB/s ETA 00:08[download]  59.4% of   65.65MiB at    3.64MiB/s ETA 00:07[download]  59.8% of   65.65MiB at    5.00MiB/s ETA 00:05[download]  60.6% of   65.65MiB at    4.43MiB/s ETA 00:05[download]  62.1% of   65.65MiB at    5.46MiB/s ETA 00:04[download]  65.1% of   65.65MiB at    6.04MiB/s ETA 00:03[download]  71.2% of   65.65MiB at    6.43MiB/s ETA 00:02[download]  74.3% of   65.65MiB at    6.63MiB/s ETA 00:02[download]  74.3% of   65.65MiB at  822.57KiB/s ETA 00:22[download]  74.3% of   65.65MiB at  456.08KiB/s ETA 00:38[download]  74.3% of   65.65MiB at  506.40KiB/s ETA 00:34[download]  74.3% of   65.65MiB at  768.93KiB/s ETA 00:22[download]  74.3% of   65.65MiB at    1.22MiB/s ETA 00:13[download]  74.4% of   65.65MiB at    2.02MiB/s ETA 00:08[download]  74.5% of   65.65MiB at    3.31MiB/s ETA 00:05[download]  74.6% of   65.65MiB at    5.50MiB/s ETA 00:03[download]  75.0% of   65.65MiB at    7.80MiB/s ETA 00:02[download]  75.8% of   65.65MiB at    7.26MiB/s ETA 00:02[download]  77.3% of   65.65MiB at    8.14MiB/s ETA 00:01[download]  80.4% of   65.65MiB at    7.53MiB/s ETA 00:01[download]  86.5% of   65.65MiB at    6.10MiB/s ETA 00:01[download]  88.9% of   65.65MiB at    5.81MiB/s ETA 00:01[download]  88.9% of   65.65MiB at  105.56KiB/s ETA 01:11[download]  88.9% of   65.65MiB at  215.44KiB/s ETA 00:34[download]  88.9% of   65.65MiB at  377.60KiB/s ETA 00:19[download]  88.9% of   65.65MiB at  616.54KiB/s ETA 00:12[download]  88.9% of   65.65MiB at    1.03MiB/s ETA 00:07[download]  89.0% of   65.65MiB at    1.81MiB/s ETA 00:04[download]  89.1% of   65.65MiB at    3.13MiB/s ETA 00:02[download]  89.2% of   65.65MiB at    5.29MiB/s ETA 00:01[download]  89.6% of   65.65MiB at    6.21MiB/s ETA 00:01[download]  90.4% of   65.65MiB at    6.91MiB/s ETA 00:00[download]  91.9% of   65.65MiB at    6.97MiB/s ETA 00:00[download]  95.0% of   65.65MiB at    6.00MiB/s ETA 00:00[download] 100.0% of   65.65MiB at    6.87MiB/s ETA 00:00[download] 100% of   65.65MiB in 00:00:12 at 5.22MiB/s                                                         [download]   0.0% of    3.77MiB at   16.13KiB/s ETA 03:59[download]   0.1% of    3.77MiB at   40.55KiB/s ETA 01:35[download]   0.2% of    3.77MiB at   89.09KiB/s ETA 00:43[download]   0.4% of    3.77MiB at  146.61KiB/s ETA 00:26[download]   0.8% of    3.77MiB at  242.17KiB/s ETA 00:15[download]   1.6% of    3.77MiB at  397.12KiB/s ETA 00:09[download]   3.3% of    3.77MiB at  634.80KiB/s ETA 00:05[download]   6.6% of    3.77MiB at  984.52KiB/s ETA 00:03[download]  13.2% of    3.77MiB at    1.21MiB/s ETA 00:02[download]  26.5% of    3.77MiB at 1020.39KiB/s ETA 00:02[download]  48.9% of    3.77MiB at    1.07MiB/s ETA 00:01[download]  80.3% of    3.77MiB at    1.01MiB/s ETA 00:00[download] 100.0% of    3.77MiB at    1.04MiB/s ETA 00:00[download] 100% of    3.77MiB in 00:00:04 at 848.49KiB/s                                                         [download] 100% of   65.65MiB                             [download]   0.0% of    3.77MiB at   99.79KiB/s ETA 00:38[download]   0.1% of    3.77MiB at  222.86KiB/s ETA 00:17[download]   0.2% of    3.77MiB at  385.94KiB/s ETA 00:10[download]   0.4% of    3.77MiB at  658.26KiB/s ETA 00:05[download]   0.8% of    3.77MiB at 1009.60KiB/s ETA 00:03[download]   1.6% of    3.77MiB at    1.03MiB/s ETA 00:03[download]   3.3% of    3.77MiB at    1.24MiB/s ETA 00:02[download]   6.6% of    3.77MiB at    1.40MiB/s ETA 00:02[download]  13.2% of    3.77MiB at    2.21MiB/s ETA 00:01[download]  26.5% of    3.77MiB at    1.36MiB/s ETA 00:02[download]  52.5% of    3.77MiB at    1.43MiB/s ETA 00:01[download]  92.3% of    3.77MiB at  902.46KiB/s ETA 00:00[download] 100.0% of    3.77MiB at  903.22KiB/s ETA 00:00[download] 100% of    3.77MiB in 00:00:04 at 871.88KiB/s                                                         Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 1430, in getresponse
+    response.begin()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1251, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1103, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bot.py", line 73, in <module>
+    bot.polling(none_stop=True)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 10427, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/home/bot.py", line 70, in handle_all
+    bot.send_message(message.chat.id, "🔍 Qidirilmoqda...")
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/__init__.py", line 1834, in send_message
+    apihelper.send_message(
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 282, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telebot/apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
